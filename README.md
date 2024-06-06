@@ -1,6 +1,12 @@
 # dollar_task
 
 A new Flutter project.
+![Screenshot](img1/1.jpg)
+![Screenshot](img1/2.jpg)
+![Screenshot](img1/3.jpg)
+![Screenshot](img1/4.jpg)
+![Screenshot](img1/5.jpg)
+![Screenshot](img1/6.jpg)
 
 ## Getting Started
 
